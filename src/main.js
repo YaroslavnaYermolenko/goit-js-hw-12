@@ -3,7 +3,6 @@ import { fillGallery, clearGallery } from './js/render-functions.js';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
-const API_KEY = '46912629-60bc072e101e3ae51ad98b0ad';
 const list = document.querySelector('.list');
 const form = document.querySelector('.searching-form');
 const loader = document.querySelector('.loader');
